@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\migrations\\20260114181927_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20260114181927_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\erudio-microservices-dotnet6\\s08_erudiomicroservices.net6-organizingthefirstmicrosservicesarcitecture\\geekshopping\\geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E5B71C-E616-83EE-F80E-4B516E2816A9}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductVO.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:53:13.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:34:45.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:48:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260114181927_AddProductDataTableOnDb.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20260114181927_AddProductDataTableOnDb.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20260114181927_AddProductDataTableOnDb.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20260114181927_AddProductDataTableOnDb.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20260114181927_AddProductDataTableOnDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:19:28.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Product.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:54:00.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:05:17.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Program.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:16:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:03:12.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArcitecture\\GeekShopping\\GeekShopping.ProductAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:08:07.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

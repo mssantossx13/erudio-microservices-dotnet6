@@ -1,0 +1,19 @@
+using RestWithASPNETUdemy.Services;
+using RestWithASPNETUdemy.Services.implementations;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+
+
+
+
+builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();
+
+var app = builder.Build();
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+app.MapControllers();
+
+app.Run();
